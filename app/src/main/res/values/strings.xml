@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataPercistence</string>
+    <string name="Description">Description</string>
+    <string name="NightMode">Night Mode</string>
+    <string name="NightModeDescription">Activate Night Mode</string>
+    <string name="Bluetooth">Bluetooth</string>
+    <string name="BluetoothDescription">Activate Bluetooth</string>
+    <string name="Volume">Volume Level</string>
+    <string name="VibrationOnCall">Vibration On Call </string>
+</resources>
