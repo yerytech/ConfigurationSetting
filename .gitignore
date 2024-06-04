@@ -10,9 +10,9 @@
 .DS_Store
 /build
 /captures
-.SuperHero
-.TodoApp
-.demo
+SuperHero
+TodoApp
+demo
 .externalNativeBuild
 .cxx
 local.properties
